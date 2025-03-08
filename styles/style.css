@@ -9,7 +9,7 @@ html {
 }
 
 .page {
-   inline-size: 1200px;
+  inline-size: 1200px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -266,7 +266,7 @@ ol {
   cursor: pointer;
 }
 
-.content__video-card:hover {
+.content__card-link:hover {
   text-decoration: underline;
   text-decoration-thickness: 2px;
 }
